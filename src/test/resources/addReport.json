@@ -1,0 +1,47 @@
+{
+    "reporter_details": {
+        "request_id": "",
+        "user_id": "3490",
+        "report_date": "2022-09-01T01:37:30Z",
+        "reporter_fullname": "Samrat Kohli",
+        "reporter_age": 40,
+        "reporter_gender": "Male",
+        "reporter_relation": "Father",
+        "parenting_type": "Own Child",
+        "contact_address_type": "Home",
+        "contact_address_line_1": "Paud Road",
+        "contact_address_line_2": "Kothrud",
+        "pincode": "411058",
+        "country": "India",
+        "primary_country_code": "+91",
+        "primary_contact_number": "1234567890",
+        "secondary_country_code": "+91",
+        "secondary_contact_number": "1234567891",
+        "communication_language": "English",
+        "status": "INCOMPLETE"
+    },
+    "child_details": {
+        "fullname": "navy tik",
+        "age": 12,
+        "gender": "Female",
+        "height": "5ft",
+        "weight": "45kg",
+        "complexion": "fair",
+        "clothing": "Red top and black pant",
+        "birth_signs": "mark on right hand",
+        "other_details": "wears spectacles",
+        "image_file_key": null,
+        "nickname":"Kara"
+    },
+    "incident_details": {
+        "incident_date": "2022-08-15T10:37:30Z",
+        "incident_brief": "Child went missing near the school",
+        "location": "Pune",
+        "landmark_signs": "Near Kasba peth",
+        "nearby_police_station": "City Police station",
+        "nearby_NGO": "Samruddhi NGO",
+        "allow_connect_police_NGO": true,
+        "self_verification": true,
+        "community_terms": true
+    }
+}
